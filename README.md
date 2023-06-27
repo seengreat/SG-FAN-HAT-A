@@ -64,7 +64,7 @@ sudo apt-get install python3-pil<br>
 sudo apt-get install python3-numpy<br>
 sudo pip3 install spidev <br>
 sudo pip3 install rpi-ws281x<br>
-The routine uses the python3 environment, and you need to install smbus to run the python demo code:<br>
+The demo codes uses the python3 environment, and you need to install smbus to run the python demo code:<br>
 sudo apt-get install -y python-smbus<br>
 ## 2.3、Configure the I2C interface
 sudo raspi-config<br>
